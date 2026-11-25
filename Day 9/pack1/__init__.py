@@ -1,0 +1,1 @@
+print("Package pack1 loaded")

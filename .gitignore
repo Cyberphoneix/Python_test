@@ -1,0 +1,12 @@
+# Python / IDE
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
